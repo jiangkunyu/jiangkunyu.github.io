@@ -26,4 +26,4 @@
 [python学习网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
 [sklearn学习网站](https://sklearn.org)
 [github学习网站](https://www.liaoxuefeng.com/wiki/896043488029600)
-
+>请同学们不要深入研究算法代码背后的数学原理，现在将其当成工具使用即可
