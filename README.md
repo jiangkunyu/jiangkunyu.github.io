@@ -14,6 +14,7 @@
 
 > 在分离训练集与验证集的时候，最好设立随机种子，防止每次运行代码结果波动。
 ----
+
 ## 指导
 **建议大家学习路线如下：**
 
@@ -24,6 +25,7 @@
 5. 学习github,提交代码
 
 **相关数据，书籍与网站**
+
 [数据](链接：https://pan.baidu.com/s/1Mw7_USP2HbWU7sW0I233hg)  提取码：v17z 
 
 [github地址](https://github.com/jiangkunyu/gongzuofang/tree/master)
