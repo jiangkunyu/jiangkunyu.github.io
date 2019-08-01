@@ -36,7 +36,7 @@
 
 [python学习网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
 
-[sklearn学习网站](https://sklearn.org)
+[sklearn学习网站](https://sklearn.org)（国外网站，可能会出现站点不安全问题，请放心使用）
 
 [github学习网站](https://www.liaoxuefeng.com/wiki/896043488029600)
 
