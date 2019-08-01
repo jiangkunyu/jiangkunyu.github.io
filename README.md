@@ -26,7 +26,7 @@
 
 **相关数据，书籍与网站**
 
-[数据](链接：https://pan.baidu.com/s/1Mw7_USP2HbWU7sW0I233hg)  提取码：v17z 
+[数据](https://pan.baidu.com/s/1Mw7_USP2HbWU7sW0I233hg)  提取码：v17z 
 
 [github地址](https://github.com/jiangkunyu/gongzuofang/tree/master)
 
@@ -39,4 +39,4 @@
 
 [github学习网站](https://www.liaoxuefeng.com/wiki/896043488029600)
 
->请同学们不要深入研究算法代码背后的数学原理，现在将其当成工具使用即可.同时不要忘记百度是一个强劲的帮手
+>请同学们不要深入研究算法代码背后的数学原理，现在将其当成工具使用即可.同时不要忘记百度是一个强劲的帮手。
